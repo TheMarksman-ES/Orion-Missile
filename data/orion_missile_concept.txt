@@ -500,7 +500,7 @@ outfit "Orion20"
 		"die effect""nuke residue fast"
 		"submunition" "Orion21" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 1100
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -523,7 +523,7 @@ outfit "Orion21"
 		"die effect""nuke residue fast"
 		"submunition" "Orion22" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 1200
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -546,7 +546,7 @@ outfit "Orion22"
 		"die effect""nuke residue fast"
 		"submunition" "Orion23" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 1300
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -569,7 +569,7 @@ outfit "Orion23"
 		"die effect""nuke residue fast"
 		"submunition" "Orion24" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 1400
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -592,7 +592,7 @@ outfit "Orion24"
 		"die effect""nuke residue fast"
 		"submunition" "Orion25" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 1500
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -615,7 +615,7 @@ outfit "Orion25"
 		"die effect""nuke residue fast"
 		"submunition" "Orion26" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 1600
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -638,7 +638,7 @@ outfit "Orion26"
 		"die effect""nuke residue fast"
 		"submunition" "Orion27" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 1700
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -661,7 +661,7 @@ outfit "Orion27"
 		"die effect""nuke residue fast"
 		"submunition" "Orion28" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 1800
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -684,7 +684,7 @@ outfit "Orion28"
 		"die effect""nuke residue fast"
 		"submunition" "Orion29" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 1900
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -707,7 +707,7 @@ outfit "Orion29"
 		"die effect""nuke residue fast"
 		"submunition" "Orion30" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 2000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -730,7 +730,7 @@ outfit "Orion30"
 		"die effect""nuke residue fast"
 		"submunition" "Orion31" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 2100
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -753,7 +753,7 @@ outfit "Orion31"
 		"die effect""nuke residue fast"
 		"submunition" "Orion32" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 2200
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -776,7 +776,7 @@ outfit "Orion32"
 		"die effect""nuke residue fast"
 		"submunition" "Orion33" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 2300
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -799,7 +799,7 @@ outfit "Orion33"
 		"die effect""nuke residue fast"
 		"submunition" "Orion34" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 2400
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -822,7 +822,7 @@ outfit "Orion34"
 		"die effect""nuke residue fast"
 		"submunition" "Orion35" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 2500
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -845,7 +845,7 @@ outfit "Orion35"
 		"die effect""nuke residue fast"
 		"submunition" "Orion36" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 2600
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -868,7 +868,7 @@ outfit "Orion36"
 		"die effect""nuke residue fast"
 		"submunition" "Orion37" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 2700
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -891,7 +891,7 @@ outfit "Orion37"
 		"die effect""nuke residue fast"
 		"submunition" "Orion38" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 2800
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -914,7 +914,7 @@ outfit "Orion38"
 		"die effect""nuke residue fast"
 		"submunition" "Orion39" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 2900
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -937,7 +937,7 @@ outfit "Orion39"
 		"die effect""nuke residue fast"
 		"submunition" "Orion40" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 3000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -960,7 +960,7 @@ outfit "Orion40"
 		"die effect""nuke residue fast"
 		"submunition" "Orion41" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 3100
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -983,7 +983,7 @@ outfit "Orion41"
 		"die effect""nuke residue fast"
 		"submunition" "Orion42" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 3200
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1006,7 +1006,7 @@ outfit "Orion42"
 		"die effect""nuke residue fast"
 		"submunition" "Orion43" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 3300
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1029,7 +1029,7 @@ outfit "Orion43"
 		"die effect""nuke residue fast"
 		"submunition" "Orion44" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 3400
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1052,7 +1052,7 @@ outfit "Orion44"
 		"die effect""nuke residue fast"
 		"submunition" "Orion45" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 3500
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1075,7 +1075,7 @@ outfit "Orion45"
 		"die effect""nuke residue fast"
 		"submunition" "Orion46" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 3600
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1098,7 +1098,7 @@ outfit "Orion46"
 		"die effect""nuke residue fast"
 		"submunition" "Orion47" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 3700
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1121,7 +1121,7 @@ outfit "Orion47"
 		"die effect""nuke residue fast"
 		"submunition" "Orion48" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 3800
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1144,7 +1144,7 @@ outfit "Orion48"
 		"die effect""nuke residue fast"
 		"submunition" "Orion49" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 3900
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1167,7 +1167,7 @@ outfit "Orion49"
 		"die effect""nuke residue fast"
 		"submunition" "Orion50" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 4000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1190,7 +1190,7 @@ outfit "Orion50"
 		"die effect""nuke residue fast"
 		"submunition" "Orion51" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 4100
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1213,7 +1213,7 @@ outfit "Orion51"
 		"die effect""nuke residue fast"
 		"submunition" "Orion52" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 4200
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1236,7 +1236,7 @@ outfit "Orion52"
 		"die effect""nuke residue fast"
 		"submunition" "Orion53" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 4300
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1259,7 +1259,7 @@ outfit "Orion53"
 		"die effect""nuke residue fast"
 		"submunition" "Orion54" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 4400
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1282,7 +1282,7 @@ outfit "Orion54"
 		"die effect""nuke residue fast"
 		"submunition" "Orion55" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 4500
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1305,7 +1305,7 @@ outfit "Orion55"
 		"die effect""nuke residue fast"
 		"submunition" "Orion56" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 4600
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1328,7 +1328,7 @@ outfit "Orion56"
 		"die effect""nuke residue fast"
 		"submunition" "Orion57" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 4700
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1351,7 +1351,7 @@ outfit "Orion57"
 		"die effect""nuke residue fast"
 		"submunition" "Orion58" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 4800
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1374,7 +1374,7 @@ outfit "Orion58"
 		"die effect""nuke residue fast"
 		"submunition" "Orion59" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 4900
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1397,7 +1397,7 @@ outfit "Orion59"
 		"die effect""nuke residue fast"
 		"submunition" "Orion60" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1420,7 +1420,7 @@ outfit "Orion60"
 		"die effect""nuke residue fast"
 		"submunition" "Orion61" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1443,7 +1443,7 @@ outfit "Orion61"
 		"die effect""nuke residue fast"
 		"submunition" "Orion62" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1466,7 +1466,7 @@ outfit "Orion62"
 		"die effect""nuke residue fast"
 		"submunition" "Orion63" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1489,7 +1489,7 @@ outfit "Orion63"
 		"die effect""nuke residue fast"
 		"submunition" "Orion64" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1512,7 +1512,7 @@ outfit "Orion64"
 		"die effect""nuke residue fast"
 		"submunition" "Orion65" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1535,7 +1535,7 @@ outfit "Orion65"
 		"die effect""nuke residue fast"
 		"submunition" "Orion66" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1558,7 +1558,7 @@ outfit "Orion66"
 		"die effect""nuke residue fast"
 		"submunition" "Orion67" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1581,7 +1581,7 @@ outfit "Orion67"
 		"die effect""nuke residue fast"
 		"submunition" "Orion68" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1604,7 +1604,7 @@ outfit "Orion68"
 		"die effect""nuke residue fast"
 		"submunition" "Orion69" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1627,7 +1627,7 @@ outfit "Orion69"
 		"die effect""nuke residue fast"
 		"submunition" "Orion70" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1650,7 +1650,7 @@ outfit "Orion70"
 		"die effect""nuke residue fast"
 		"submunition" "Orion71" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1673,7 +1673,7 @@ outfit "Orion71"
 		"die effect""nuke residue fast"
 		"submunition" "Orion72" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1696,7 +1696,7 @@ outfit "Orion72"
 		"die effect""nuke residue fast"
 		"submunition" "Orion73" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1719,7 +1719,7 @@ outfit "Orion73"
 		"die effect""nuke residue fast"
 		"submunition" "Orion74" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1742,7 +1742,7 @@ outfit "Orion74"
 		"die effect""nuke residue fast"
 		"submunition" "Orion75" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1765,7 +1765,7 @@ outfit "Orion75"
 		"die effect""nuke residue fast"
 		"submunition" "Orion76" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1788,7 +1788,7 @@ outfit "Orion76"
 		"die effect""nuke residue fast"
 		"submunition" "Orion77" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1811,7 +1811,7 @@ outfit "Orion77"
 		"die effect""nuke residue fast"
 		"submunition" "Orion78" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1834,7 +1834,7 @@ outfit "Orion78"
 		"die effect""nuke residue fast"
 		"submunition" "Orion79" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1857,7 +1857,7 @@ outfit "Orion79"
 		"die effect""nuke residue fast"
 		"submunition" "Orion80" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1880,7 +1880,7 @@ outfit "Orion80"
 		"die effect""nuke residue fast"
 		"submunition" "Orion81" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1903,7 +1903,7 @@ outfit "Orion81"
 		"die effect""nuke residue fast"
 		"submunition" "Orion82" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1926,7 +1926,7 @@ outfit "Orion82"
 		"die effect""nuke residue fast"
 		"submunition" "Orion83" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1949,7 +1949,7 @@ outfit "Orion83"
 		"die effect""nuke residue fast"
 		"submunition" "Orion84" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1972,7 +1972,7 @@ outfit "Orion84"
 		"die effect""nuke residue fast"
 		"submunition" "Orion85" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -1995,7 +1995,7 @@ outfit "Orion85"
 		"die effect""nuke residue fast"
 		"submunition" "Orion86" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -2018,7 +2018,7 @@ outfit "Orion86"
 		"die effect""nuke residue fast"
 		"submunition" "Orion87" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -2041,7 +2041,7 @@ outfit "Orion87"
 		"die effect""nuke residue fast"
 		"submunition" "Orion88" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -2064,7 +2064,7 @@ outfit "Orion88"
 		"die effect""nuke residue fast"
 		"submunition" "Orion89" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -2087,7 +2087,7 @@ outfit "Orion89"
 		"die effect""nuke residue fast"
 		"submunition" "Orion90" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -2110,7 +2110,7 @@ outfit "Orion90"
 		"die effect""nuke residue fast"
 		"submunition" "Orion91" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -2133,7 +2133,7 @@ outfit "Orion91"
 		"die effect""nuke residue fast"
 		"submunition" "Orion92" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -2156,7 +2156,7 @@ outfit "Orion92"
 		"die effect""nuke residue fast"
 		"submunition" "Orion93" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -2179,7 +2179,7 @@ outfit "Orion93"
 		"die effect""nuke residue fast"
 		"submunition" "Orion94" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -2202,7 +2202,7 @@ outfit "Orion94"
 		"die effect""nuke residue fast"
 		"submunition" "Orion95" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -2225,7 +2225,7 @@ outfit "Orion95"
 		"die effect""nuke residue fast"
 		"submunition" "Orion96" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -2248,7 +2248,7 @@ outfit "Orion96"
 		"die effect""nuke residue fast"
 		"submunition" "Orion97" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -2271,7 +2271,7 @@ outfit "Orion97"
 		"die effect""nuke residue fast"
 		"submunition" "MainOrion" 1
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
@@ -2293,7 +2293,7 @@ outfit "MainOrion"
 		"hit effect" "nuke residue slow" 10	
 		"die effect""nuke residue fast"
 		"inaccuracy" 1
-		"velocity" 1000
+		"velocity" 5000
 		"lifetime" 600
 		"acceleration" .00001
 		"turn" .1
