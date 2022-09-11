@@ -12,9 +12,10 @@ outfit "Orion Missile"
 			"frame rate" .100
 			"no repeat"
 		sound "nuke"
+		ammo "Orion Missile"
 		icon "icon/nuke"
 		"hit effect" "large explosion"
-	 	"die effect""missile death"
+	 	"die effect" "missile death"
 		"submunition" "OrionStart" 1
 		"inaccuracy" 1
 		"velocity" 10
@@ -23,7 +24,7 @@ outfit "Orion Missile"
 		"firing energy" 1000
 		"firing heat" 400
 		"turn" 1
-		"homing" 4
+		"homing" 2
 		"optical tracking" .1
 		"blast radius" 150
 		"missile strength" 50
@@ -38,7 +39,7 @@ outfit "OrionStart"
 			"frame rate" 1
 			"no repeat"
 		"hit effect" "large explosion"     	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion1" 1
 		"inaccuracy" 1
 		"velocity" 10
@@ -60,14 +61,14 @@ outfit "Orion1"
 		"hit effect" "large explosion"     
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion2" 1
 		"inaccuracy" 1
 		"velocity" 15
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 100
@@ -83,14 +84,14 @@ outfit "Orion2"
 		"hit effect" "large explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion3" 1
 		"inaccuracy" 1
 		"velocity" 20
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 200
@@ -106,14 +107,14 @@ outfit "Orion3"
 		"hit effect" "large explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion4" 1
 		"inaccuracy" 1
 		"velocity" 30
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 300
@@ -129,14 +130,14 @@ outfit "Orion4"
 		"hit effect" "large explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion5" 1
 		"inaccuracy" 1
 		"velocity" 40
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -152,14 +153,14 @@ outfit "Orion5"
 		"hit effect" "large explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion6" 1
 		"inaccuracy" 1
 		"velocity" 50
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -175,14 +176,14 @@ outfit "Orion6"
 		"hit effect" "large explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion7" 1
 		"inaccuracy" 1
 		"velocity" 60
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -198,14 +199,14 @@ outfit "Orion7"
 		"hit effect" "large explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion8" 1
 		"inaccuracy" 1
 		"velocity" 80
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -221,14 +222,14 @@ outfit "Orion8"
 		"hit effect" "large explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion9" 1
 		"inaccuracy" 1
 		"velocity" 100
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -244,14 +245,14 @@ outfit "Orion9"
 		"hit effect" "large explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion10" 1
 		"inaccuracy" 1
 		"velocity" 140
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -267,14 +268,14 @@ outfit "Orion10"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion11" 1
 		"inaccuracy" 1
 		"velocity" 180
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -290,14 +291,14 @@ outfit "Orion11"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion12" 1
 		"inaccuracy" 1
 		"velocity" 240
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -313,14 +314,14 @@ outfit "Orion12"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion13" 1
 		"inaccuracy" 1
 		"velocity" 300
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -336,14 +337,14 @@ outfit "Orion13"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion14" 1
 		"inaccuracy" 1
 		"velocity" 380
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -359,14 +360,14 @@ outfit "Orion14"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion15" 1
 		"inaccuracy" 1
 		"velocity" 460
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -382,14 +383,14 @@ outfit "Orion15"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion16" 1
 		"inaccuracy" 1
 		"velocity" 560
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -405,14 +406,14 @@ outfit "Orion16"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion17" 1
 		"inaccuracy" 1
 		"velocity" 680
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -428,14 +429,14 @@ outfit "Orion17"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion18" 1
 		"inaccuracy" 1
 		"velocity" 800
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -451,14 +452,14 @@ outfit "Orion18"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion19" 1
 		"inaccuracy" 1
 		"velocity" 940
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -474,14 +475,14 @@ outfit "Orion19"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion20" 1
 		"inaccuracy" 1
 		"velocity" 1000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -497,14 +498,14 @@ outfit "Orion20"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion21" 1
 		"inaccuracy" 1
 		"velocity" 1100
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -520,14 +521,14 @@ outfit "Orion21"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion22" 1
 		"inaccuracy" 1
 		"velocity" 1200
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -543,14 +544,14 @@ outfit "Orion22"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion23" 1
 		"inaccuracy" 1
 		"velocity" 1300
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -566,14 +567,14 @@ outfit "Orion23"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion24" 1
 		"inaccuracy" 1
 		"velocity" 1400
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -589,14 +590,14 @@ outfit "Orion24"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion25" 1
 		"inaccuracy" 1
 		"velocity" 1500
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -612,14 +613,14 @@ outfit "Orion25"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion26" 1
 		"inaccuracy" 1
 		"velocity" 1600
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -635,14 +636,14 @@ outfit "Orion26"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion27" 1
 		"inaccuracy" 1
 		"velocity" 1700
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -658,14 +659,14 @@ outfit "Orion27"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion28" 1
 		"inaccuracy" 1
 		"velocity" 1800
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -681,14 +682,14 @@ outfit "Orion28"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion29" 1
 		"inaccuracy" 1
 		"velocity" 1900
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -704,14 +705,14 @@ outfit "Orion29"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion30" 1
 		"inaccuracy" 1
 		"velocity" 2000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -727,14 +728,14 @@ outfit "Orion30"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion31" 1
 		"inaccuracy" 1
 		"velocity" 2100
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -750,14 +751,14 @@ outfit "Orion31"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion32" 1
 		"inaccuracy" 1
 		"velocity" 2200
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -773,14 +774,14 @@ outfit "Orion32"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion33" 1
 		"inaccuracy" 1
 		"velocity" 2300
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -796,14 +797,14 @@ outfit "Orion33"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion34" 1
 		"inaccuracy" 1
 		"velocity" 2400
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -819,14 +820,14 @@ outfit "Orion34"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion35" 1
 		"inaccuracy" 1
 		"velocity" 2500
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -842,14 +843,14 @@ outfit "Orion35"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion36" 1
 		"inaccuracy" 1
 		"velocity" 2600
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -865,14 +866,14 @@ outfit "Orion36"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion37" 1
 		"inaccuracy" 1
 		"velocity" 2700
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -888,14 +889,14 @@ outfit "Orion37"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion38" 1
 		"inaccuracy" 1
 		"velocity" 2800
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -911,14 +912,14 @@ outfit "Orion38"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion39" 1
 		"inaccuracy" 1
 		"velocity" 2900
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -934,14 +935,14 @@ outfit "Orion39"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion40" 1
 		"inaccuracy" 1
 		"velocity" 3000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -957,14 +958,14 @@ outfit "Orion40"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion41" 1
 		"inaccuracy" 1
 		"velocity" 3100
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -980,14 +981,14 @@ outfit "Orion41"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion42" 1
 		"inaccuracy" 1
 		"velocity" 3200
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1003,14 +1004,14 @@ outfit "Orion42"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion43" 1
 		"inaccuracy" 1
 		"velocity" 3300
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1026,14 +1027,14 @@ outfit "Orion43"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion44" 1
 		"inaccuracy" 1
 		"velocity" 3400
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1049,14 +1050,14 @@ outfit "Orion44"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion45" 1
 		"inaccuracy" 1
 		"velocity" 3500
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1072,14 +1073,14 @@ outfit "Orion45"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion46" 1
 		"inaccuracy" 1
 		"velocity" 3600
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1095,14 +1096,14 @@ outfit "Orion46"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion47" 1
 		"inaccuracy" 1
 		"velocity" 3700
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1118,14 +1119,14 @@ outfit "Orion47"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion48" 1
 		"inaccuracy" 1
 		"velocity" 3800
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1141,14 +1142,14 @@ outfit "Orion48"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion49" 1
 		"inaccuracy" 1
 		"velocity" 3900
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1164,14 +1165,14 @@ outfit "Orion49"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion50" 1
 		"inaccuracy" 1
 		"velocity" 4000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1187,14 +1188,14 @@ outfit "Orion50"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion51" 1
 		"inaccuracy" 1
 		"velocity" 4100
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1210,14 +1211,14 @@ outfit "Orion51"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion52" 1
 		"inaccuracy" 1
 		"velocity" 4200
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1233,14 +1234,14 @@ outfit "Orion52"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion53" 1
 		"inaccuracy" 1
 		"velocity" 4300
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1256,14 +1257,14 @@ outfit "Orion53"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion54" 1
 		"inaccuracy" 1
 		"velocity" 4400
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1279,14 +1280,14 @@ outfit "Orion54"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion55" 1
 		"inaccuracy" 1
 		"velocity" 4500
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1302,14 +1303,14 @@ outfit "Orion55"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion56" 1
 		"inaccuracy" 1
 		"velocity" 4600
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1325,14 +1326,14 @@ outfit "Orion56"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion57" 1
 		"inaccuracy" 1
 		"velocity" 4700
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1348,14 +1349,14 @@ outfit "Orion57"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion58" 1
 		"inaccuracy" 1
 		"velocity" 4800
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1371,14 +1372,14 @@ outfit "Orion58"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion59" 1
 		"inaccuracy" 1
 		"velocity" 4900
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1394,14 +1395,14 @@ outfit "Orion59"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion60" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1417,14 +1418,14 @@ outfit "Orion60"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion61" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1440,14 +1441,14 @@ outfit "Orion61"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion62" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1463,14 +1464,14 @@ outfit "Orion62"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion63" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1486,14 +1487,14 @@ outfit "Orion63"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion64" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1509,14 +1510,14 @@ outfit "Orion64"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion65" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1532,14 +1533,14 @@ outfit "Orion65"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion66" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1555,14 +1556,14 @@ outfit "Orion66"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion67" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1578,14 +1579,14 @@ outfit "Orion67"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion68" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1601,14 +1602,14 @@ outfit "Orion68"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion69" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1624,14 +1625,14 @@ outfit "Orion69"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion70" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1647,14 +1648,14 @@ outfit "Orion70"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion71" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1670,14 +1671,14 @@ outfit "Orion71"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion72" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1693,14 +1694,14 @@ outfit "Orion72"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion73" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1716,14 +1717,14 @@ outfit "Orion73"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion74" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1739,14 +1740,14 @@ outfit "Orion74"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion75" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1762,14 +1763,14 @@ outfit "Orion75"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion76" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1785,14 +1786,14 @@ outfit "Orion76"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion77" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1808,14 +1809,14 @@ outfit "Orion77"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion78" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1831,14 +1832,14 @@ outfit "Orion78"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion79" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1854,14 +1855,14 @@ outfit "Orion79"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion80" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1877,14 +1878,14 @@ outfit "Orion80"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion81" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1900,14 +1901,14 @@ outfit "Orion81"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion82" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1923,14 +1924,14 @@ outfit "Orion82"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion83" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1946,14 +1947,14 @@ outfit "Orion83"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion84" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1969,14 +1970,14 @@ outfit "Orion84"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion85" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -1992,14 +1993,14 @@ outfit "Orion85"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion86" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -2015,14 +2016,14 @@ outfit "Orion86"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion87" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -2038,14 +2039,14 @@ outfit "Orion87"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion88" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -2061,14 +2062,14 @@ outfit "Orion88"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion89" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -2084,14 +2085,14 @@ outfit "Orion89"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion90" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -2107,14 +2108,14 @@ outfit "Orion90"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion91" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -2130,14 +2131,14 @@ outfit "Orion91"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion92" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -2153,14 +2154,14 @@ outfit "Orion92"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion93" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -2176,14 +2177,14 @@ outfit "Orion93"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion94" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -2199,14 +2200,14 @@ outfit "Orion94"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion95" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -2222,14 +2223,14 @@ outfit "Orion95"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion96" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -2245,14 +2246,14 @@ outfit "Orion96"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "Orion97" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -2268,14 +2269,14 @@ outfit "Orion97"
 		"hit effect" "nuke explosion"       
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"submunition" "MainOrion" 1
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
@@ -2291,13 +2292,13 @@ outfit "MainOrion"
 		"hit effect" "nuke explosion"   
 		"hit effect" "nuke residue fast" 10
 		"hit effect" "nuke residue slow" 10	
-		"die effect""nuke residue fast"
+		"die effect" "nuke residue fast"
 		"inaccuracy" 1
 		"velocity" 5000
 		"lifetime" 60000
 		"acceleration" .00001
 		"turn" .1
-		"homing" 4
+		"homing" 2
 		"optical tracking" 1
 		"blast radius" 150
 		"missile strength" 400
